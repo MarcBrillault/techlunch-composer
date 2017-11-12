@@ -9,3 +9,8 @@ tech lunch about Composer.
 2. Run `composer install`
 3. Run `php -S 0.0.0.0:8000 server.php`
 4. Open your browser on [http://localhost:8000](http://localhost:8000)
+
+# Credits
+
+- Gallery template from [Start Bootstrap](https://startbootstrap.com/template-overviews/thumbnail-gallery/)
+- The photos are my own, and are released under [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/)
