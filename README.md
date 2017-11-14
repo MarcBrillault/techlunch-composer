@@ -7,7 +7,7 @@ tech lunch about Composer.
 
 1. Download / Clone the repo
 2. Run `composer install`
-3. Run `php -S 0.0.0.0:8000 server.php`
+3. Run `php -S 0.0.0.0:8000 router.php`
 4. Open your browser on [http://localhost:8000](http://localhost:8000)
 
 # Credits
